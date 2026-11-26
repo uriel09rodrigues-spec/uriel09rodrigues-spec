@@ -5,8 +5,7 @@
 <p align="center">
   Explorando tecnologia, programação e desenvolvimento de software.
 </p>
-![Views](https://komarev.com/ghpvc/?username=uriel09rodrigues-spec&label=VIEWS&color=9f9f9f&style=flat-square)
-
+<img src="[https://komarev.com/ghpvc/?username=uriel09rodrigues-spec&label=VIEWS&color=9f9f9f&style=flat-square](https://komarev.com/ghpvc/?username=uriel09rodrigues-spec&label=VIEWS&color=9f9f9f&style=flat-square)" alt="Views" />
 <h2>👨‍💻 Sobre mim</h2>
 
 🎓 Estudante de Engenharia da Computação na UNIFEV.
