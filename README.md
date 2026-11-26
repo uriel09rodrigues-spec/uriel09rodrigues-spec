@@ -1,32 +1,28 @@
-👋 Olá, eu sou Uriel Rodrigues!
+ <h1 align="center">👋 Olá, eu sou Uriel Rodrigues!</h1>
 
-💻 Estudante de Engenharia da Computação | Tecnologia e Desenvolvimento
+<h3 align="center">💻 Estudante de Engenharia da Computação</h3>
 
-Sou estudante de Engenharia da Computação na UNIFEV e estou construindo minha trajetória na área de tecnologia.
+<p align="center">
+  Explorando tecnologia, programação e desenvolvimento de software.
+</p>
 
-Tenho interesse em desenvolvimento de software, infraestrutura de TI, redes de computadores e segurança da informação.
+<h2>👨‍💻 Sobre mim</h2>
 
-🚀 Sobre mim
+🎓 Estudante de Engenharia da Computação na UNIFEV.
 
-🎓 Engenharia da Computação — UNIFEV
+💼 Estagiário na área de TI da Prefeitura de Votuporanga.
 
-💼 Estagiário na área de TI da Prefeitura de Votuporanga
+💡 Interessado em tecnologia, infraestrutura e desenvolvimento.
 
-📚 Estudando lógica de programação e desenvolvimento
+🚀 Sempre buscando aprender coisas novas e evoluir profissionalmente.
 
-🌐 Interesse em redes e infraestrutura
+<h2>🛠️ Tecnologias e ferramentas</h2>
 
-🔐 Aprendendo sobre segurança da informação
-
-🎯 Meu objetivo é evoluir constantemente como profissional de tecnologia.
-
-🛠️ Tecnologias e ferramentas
-
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,vscode" />
-</div>
+</p>
 
-📖 Atualmente estudando
+<h2>📚 Atualmente estudando</h2>
 
 Algoritmos e lógica de programação
 
@@ -38,13 +34,31 @@ Redes de computadores
 
 Segurança da informação
 
-📊 GitHub
+<h2>🎯 Objetivos</h2>
 
+Aprimorar meus conhecimentos em programação.
 
+Desenvolver projetos práticos.
 
+Aprender novas tecnologias.
 
+Crescer profissionalmente na área de TI.
 
-📫 Contato
+<h2>📊 Estatísticas do GitHub</h2>
 
-GitHub: @uriel09rodrigues-spec
-⭐ Sempre aprendendo, praticando e construindo novos projetos!
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uriel09rodrigues-spec&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriel09rodrigues-spec&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<h2>📫 Contato</h2>
+
+<p>
+  <a href="https://github.com/uriel09rodrigues-spec">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Sempre aprendendo, praticando e construindo novos projetos!
+</p>
