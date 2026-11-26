@@ -44,12 +44,6 @@ Aprender novas tecnologias.
 
 Crescer profissionalmente na área de TI.
 
-<h2>📊 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uriel09rodrigues-spec&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriel09rodrigues-spec&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 <h2>📫 Contato</h2>
 
